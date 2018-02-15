@@ -1,10 +1,10 @@
-#Simple C# summer course project 
+### Simple C# summer course project 
 
-#FTP Client
+#### FTP Client
 
 Build with Visual Studio 2017
 
-#Reference
+#### Reference
 
 Material Design
 
@@ -15,5 +15,5 @@ Fluent FTP
 https://github.com/hgupta9/FluentFTP/
 
 
-Atrix Lin 
-Sept. 2017
+######Atrix Lin 
+######Sept. 2017
