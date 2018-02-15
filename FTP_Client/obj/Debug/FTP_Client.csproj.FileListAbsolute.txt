@@ -1,0 +1,12 @@
+F:\Codes\C#\!!FTPBrowser\FTP_Client\bin\Debug\FTP_Client.exe.config
+F:\Codes\C#\!!FTPBrowser\FTP_Client\bin\Debug\FTP_Client.exe
+F:\Codes\C#\!!FTPBrowser\FTP_Client\bin\Debug\FTP_Client.pdb
+F:\Codes\C#\!!FTPBrowser\FTP_Client\bin\Debug\FluentFTP.dll
+F:\Codes\C#\!!FTPBrowser\FTP_Client\bin\Debug\MaterialSkin.dll
+F:\Codes\C#\!!FTPBrowser\FTP_Client\bin\Debug\FluentFTP.xml
+F:\Codes\C#\!!FTPBrowser\FTP_Client\obj\Debug\FTP_Client.Properties.Resources.resources
+F:\Codes\C#\!!FTPBrowser\FTP_Client\obj\Debug\FTP_Client.csproj.GenerateResource.Cache
+F:\Codes\C#\!!FTPBrowser\FTP_Client\obj\Debug\FTP_Client.csproj.CoreCompileInputs.cache
+F:\Codes\C#\!!FTPBrowser\FTP_Client\obj\Debug\FTP_Client.exe
+F:\Codes\C#\!!FTPBrowser\FTP_Client\obj\Debug\FTP_Client.pdb
+F:\Codes\C#\!!FTPBrowser\FTP_Client\obj\Debug\FTPClient.MainForm.resources
